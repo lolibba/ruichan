@@ -1,21 +1,17 @@
 <!DOCTYPE html>
-<html lang="ja">
-  <head>
-    <meta charset="utf-8">
-    <title>ルイちゃん高みを目指す</title>
-    <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=no">
-    <script src="./js/lib/enchant.js"></script>
-    <!-- script src="./js/lib/tl.enchant.js"></script ver0.6.0以前のenchant.jsを使う場合はこのプラグインを読み込んでください -->
-    <script src="./js/main.js"></script>
-    <style>
-      body {
-        padding: 0;
-        margin:  0;
-        background-color: #000;
-      }
-    </style>
-  </head>
-  <body>
-  <!-- ここにゲームが表示されます。 -->
-  </body>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name='viewport' content='width=device-width, initial-scale=1'>
+<meta name="twitter:title" content="ルイちゃん高みを目指す" />
+<meta name="twitter:card" content="player" />
+<meta name="twitter:image" content="https://lolibba.github.io/ruichan/main/icon.png" />
+<meta name="twitter:player" content="https://lolibba.github.io/ruichan/main/" />
+<meta name="twitter:player:height" content="504" />
+<meta name="twitter:player:width" content="504" />
+<meta name="twitter:site" content="@lolibba" />
+<script>location.href = "./main/" + location.search;</script>
+<title>ルイちゃん高みを目指す</title>
+</head>
+<body></body>
 </html>
